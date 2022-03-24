@@ -1,2 +1,2 @@
-# fantastic-broccoli
+# Fantastic Broccoli
 Broadcast data through LoRa
