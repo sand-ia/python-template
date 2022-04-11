@@ -1,4 +1,4 @@
-name: deepsource-test-coverage
+name: DeepSource_Test_Coverage
 on: [pull_request]
 jobs:
   run:
@@ -11,12 +11,22 @@ jobs:
       with:
         ref: ${{ github.event.pull_request.head.sha }}
 
-    - name: Report results to DeepSource
+    # Generate coverage report in xml format coverage xml
+
+    - name: Install pytest and pytest-cov pacakages from pip
       run:
-        # Generate coverage report in xml format coverage xml
-        pip install pytest pytest-cov        
+        pip install pytest pytest-cov
+
+    - name: Run pytest with --cov and --cov-report flags
+      run:
         pytest --cov=./ --cov-report xml
+
+    - name: Install deepsource CLI
+      run:
         curl https://deepsource.io/cli | sh
+
+    - name: From the root directory, run the report coverage command
+      run:
         ./bin/deepsource report --analyzer test-coverage --key python --value-file ./coverage.xml
 
       env:
