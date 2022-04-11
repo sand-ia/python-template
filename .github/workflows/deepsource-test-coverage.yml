@@ -19,7 +19,7 @@ jobs:
 
     - name: Run pytest with --cov and --cov-report flags
       run:
-        pytest --cov=./ --cov-report xml
+        python -m pytest --cov=./ --cov-report xml
 
     - name: Install deepsource CLI
       run:
