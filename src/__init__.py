@@ -2,6 +2,8 @@
 from dotenv import load_dotenv
 from flask import Flask
 
+from src.application.service.service import Service
+
 load_dotenv()
 
 
@@ -11,6 +13,10 @@ def create_app() -> Flask:
     :return: Flask Application
     :rtype: Flask
     """
-    app = Flask(__name__)
+    app: Flask = Flask(__name__)
+
+    service: Service = Service()
+    res = service.execute()
+    print(res)
 
     return app
