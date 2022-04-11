@@ -1,7 +1,7 @@
 from src.application.service.service import Service
 
 
-def test_execute_pass():
+def test_execute_success():
     service: Service = Service()
     assert service.execute() == 9
 
