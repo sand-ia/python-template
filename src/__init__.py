@@ -1,8 +1,7 @@
 """Setup Flask Application."""
 from dotenv import load_dotenv
 from flask import Flask
-
-from src.application.service.service import Service
+from .service import Service
 
 load_dotenv()
 

@@ -1,4 +1,4 @@
-from src.application.service.service import Service
+from src.service import Service
 
 
 def test_execute_success():
