@@ -1,1 +1,2 @@
 """General Repository Excepitons."""
+pass
