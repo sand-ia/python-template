@@ -1,5 +1,5 @@
 name: DeepSource_Test_Coverage
-on:  
+on:
   push:
     branches:
       - master
