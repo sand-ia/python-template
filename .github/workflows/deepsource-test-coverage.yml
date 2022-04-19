@@ -1,5 +1,9 @@
 name: DeepSource_Test_Coverage
+<<<<<<< HEAD
 on:
+=======
+on:  
+>>>>>>> 26e34404e9bc0816f725cd0c0726b068fa6f6a6a
   push:
     branches:
       - master
