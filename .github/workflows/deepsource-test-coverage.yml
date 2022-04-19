@@ -1,5 +1,11 @@
 name: DeepSource_Test_Coverage
-on: [pull_request]
+on:  
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
 jobs:
   run:
     runs-on: ubuntu-latest
