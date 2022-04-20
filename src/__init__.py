@@ -1,4 +1,4 @@
-"""Fantastic Brocolli startup."""
+"""Fantastic Brocolli startup. Wow"""
 from dotenv import load_dotenv
 from flask import Flask
 
