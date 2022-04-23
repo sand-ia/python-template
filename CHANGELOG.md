@@ -9,11 +9,18 @@ Backward incompatible changes will only be introduced in major versions with adv
 
 ## [Unreleased]
 
+## [v0.2.0] - 2022-23-04
+
+### Changed
+
+- Start using "bounded-context" instead of problem since it's the common usage.
+
 ## [v0.1.0] - 2022-19-04
 
 ### Added
 
 - First pre-release! 🎉
 
-[unreleased]: https://github.com/bestables/fantastic-broccoli/compare/v0.1.0...HEAD
+[unreleased]: https://github.com/bestables/fantastic-broccoli/compare/v0.2.0...HEAD
+[unreleased]: https://github.com/bestables/fantastic-broccoli/compare/v0.1.0...v0.2.0
 [v0.1.0]: https://github.com/bestables/fantastic-broccoli/releases/tag/v0.1.0
