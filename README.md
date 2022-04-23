@@ -7,9 +7,21 @@
 
 # Fantastic Broccoli
 
-**Fantastic Broccoli** is a simple python backend to broadcast data through LoRa.
+**Fantastic Broccoli** is a simple python backend template.
 
-## Installation
+## Template Usage
+
+1. Click on **Use this template** button:
+
+   ![alt text](../media/readme/use-this-template.png?raw=true)
+
+2. Choose a repository name:
+
+   ![alt text](../media/readme/choose-repository-name.png?raw=true)
+
+## Run Template
+
+The following steps explain how to run this template. If you follow the steps under [Template Usage](#template-usage), dont forget to change the repository name (fantastic-broccoli) and owner (bestables) with the corresponding values.
 
 1. Clone the repository:
 
