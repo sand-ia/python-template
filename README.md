@@ -3,7 +3,6 @@
 ![alt text](https://img.shields.io/github/forks/sand-ia/fantastic-broccoli)
 ![alt text](https://img.shields.io/github/stars/sand-ia/fantastic-broccoli)
 ![alt text](https://img.shields.io/github/license/sand-ia/fantastic-broccoli)
-![alt text](https://img.shields.io/github/issues/sand-ia/fantastic-broccoli)
 
 # Fantastic Broccoli
 
