@@ -1,4 +1,4 @@
-"""Fantastic Brocolli startup."""
+"""Python Template startup."""
 from flask import Flask
 
 
