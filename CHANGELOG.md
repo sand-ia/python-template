@@ -65,7 +65,8 @@ Backward incompatible changes will only be introduced in major versions with adv
 
 - First pre-release! 🎉
 
-[unreleased]: https://github.com/sand-ia/python-template/compare/v0.5.0...HEAD
+[unreleased]: https://github.com/sand-ia/python-template/compare/v0.5.1...HEAD
+[v0.5.1]: https://github.com/sand-ia/python-template/compare/v0.5.0...v0.5.1
 [v0.5.0]: https://github.com/sand-ia/python-template/compare/v0.4.0...v0.5.0
 [v0.4.0]: https://github.com/sand-ia/python-template/compare/v0.3.0...v0.4.0
 [v0.3.0]: https://github.com/sand-ia/python-template/compare/v0.2.0...v0.3.0
