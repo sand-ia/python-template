@@ -9,6 +9,19 @@ Backward incompatible changes will only be introduced in major versions with adv
 
 ## [Unreleased]
 
+## [v0.4.0] - 2022-07-09
+
+### Added
+
+- Omit init file and dependencies from test coverage.
+- Mappers foldeer added.
+
+### Changed
+
+- Rename Organisation name Bestables to Sandia.
+- Remove dotenv from init file, because flask already use it.
+- Commands folder renamed to clis.
+
 ## [v0.3.0] - 2022-25-04
 
 ### Changed
@@ -28,7 +41,8 @@ Backward incompatible changes will only be introduced in major versions with adv
 
 - First pre-release! 🎉
 
-[unreleased]: https://github.com/sand-ia/python-template/compare/v0.3.0...HEAD
-[v0.3.0]: https://github.com/sand-ia/python-template/compare/v0.2.0...v0.3.0
-[v0.2.0]: https://github.com/sand-ia/python-template/compare/v0.1.0...v0.2.0
-[v0.1.0]: https://github.com/sand-ia/python-template/releases/tag/v0.1.0
+[unreleased]: https://github.com/sand-ia/fantastic-broccoli/compare/v0.4.0...HEAD
+[v0.4.0]: https://github.com/sand-ia/fantastic-broccoli/compare/v0.3.0...v0.4.0
+[v0.3.0]: https://github.com/sand-ia/fantastic-broccoli/compare/v0.2.0...v0.3.0
+[v0.2.0]: https://github.com/sand-ia/fantastic-broccoli/compare/v0.1.0...v0.2.0
+[v0.1.0]: https://github.com/sand-ia/fantastic-broccoli/releases/tag/v0.1.0
