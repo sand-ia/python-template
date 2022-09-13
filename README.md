@@ -1,13 +1,12 @@
 ![alt text](https://img.shields.io/badge/python-3.9-blue)
-![alt text](https://img.shields.io/github/issues/sand-ia/fantastic-broccoli)
-![alt text](https://img.shields.io/github/forks/sand-ia/fantastic-broccoli)
-![alt text](https://img.shields.io/github/stars/sand-ia/fantastic-broccoli)
-![alt text](https://img.shields.io/github/license/sand-ia/fantastic-broccoli)
-![alt text](https://img.shields.io/github/issues/sand-ia/fantastic-broccoli)
+![alt text](https://img.shields.io/github/issues/sand-ia/python-template)
+![alt text](https://img.shields.io/github/forks/sand-ia/python-template)
+![alt text](https://img.shields.io/github/stars/sand-ia/python-template)
+![alt text](https://img.shields.io/github/license/sand-ia/python-template)
 
-# Fantastic Broccoli
+# Python Template
 
-**Fantastic Broccoli** is a simple python backend template.
+**Python Template** is a simple python backend template.
 
 ## Template Usage
 
@@ -21,18 +20,18 @@
 
 ## Run Template
 
-The following steps explain how to run this template. If you follow the steps under [Template Usage](#template-usage), dont forget to change the repository name (fantastic-broccoli) and owner (sandia) with the corresponding values.
+The following steps explain how to run this template. If you follow the steps under [Template Usage](#template-usage), dont forget to change the repository name (python-template) and owner (sandia) with the corresponding values.
 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/sand-ia/fantastic-broccoli.git
+git clone https://github.com/sand-ia/python-template.git
 ```
 
 2. Move into the project folder:
 
 ```sh
-cd fantastic-broccoli
+cd python-template
 ```
 
 3. Create a virtual enviroment with Python 3.9:
@@ -79,4 +78,4 @@ flask run
 
 Copyright Sandia, 2022.
 
-Distributed under the terms of the [MIT License](LICENSE), Fantastic Broccoli is free and open source software.
+Distributed under the terms of the [MIT License](LICENSE), Python Template is free and open source software.
