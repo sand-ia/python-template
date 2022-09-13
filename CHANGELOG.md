@@ -9,23 +9,29 @@ Backward incompatible changes will only be introduced in major versions with adv
 
 ## [Unreleased]
 
+## [v0.5.1] - 2022-12-09
+
+### Fixed
+
+- Fix changelog file links.
+
 ## [v0.5.0] - 2022-12-09
 
 ### Added
 
-- Update test flie structure
+- Update test flie structure.
 
 ### Changed
 
-- Rename project from fantastic-broccolli to python-template 
+- Rename project from fantastic-broccoli to python-template.
 
 ### Removed
 
-- Remove shared folder
+- Remove shared folder.
 
 ### Fixed
 
-- Remove repeted issues shield
+- Remove repeted issues shield.
 
 ## [v0.4.0] - 2022-07-09
 
@@ -59,9 +65,9 @@ Backward incompatible changes will only be introduced in major versions with adv
 
 - First pre-release! 🎉
 
-[unreleased]: https://github.com/sand-ia/fantastic-broccoli/compare/v0.5.0...HEAD
-[v0.5.0]: https://github.com/sand-ia/fantastic-broccoli/compare/v0.4.0...v0.5.0
-[v0.4.0]: https://github.com/sand-ia/fantastic-broccoli/compare/v0.3.0...v0.4.0
-[v0.3.0]: https://github.com/sand-ia/fantastic-broccoli/compare/v0.2.0...v0.3.0
-[v0.2.0]: https://github.com/sand-ia/fantastic-broccoli/compare/v0.1.0...v0.2.0
-[v0.1.0]: https://github.com/sand-ia/fantastic-broccoli/releases/tag/v0.1.0
+[unreleased]: https://github.com/sand-ia/python-template/compare/v0.5.0...HEAD
+[v0.5.0]: https://github.com/sand-ia/python-template/compare/v0.4.0...v0.5.0
+[v0.4.0]: https://github.com/sand-ia/python-template/compare/v0.3.0...v0.4.0
+[v0.3.0]: https://github.com/sand-ia/python-template/compare/v0.2.0...v0.3.0
+[v0.2.0]: https://github.com/sand-ia/python-template/compare/v0.1.0...v0.2.0
+[v0.1.0]: https://github.com/sand-ia/python-template/releases/tag/v0.1.0
